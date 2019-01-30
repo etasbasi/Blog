@@ -1,1 +1,1 @@
-This is my personal blog hosted at (etasbasi.github.io/Blog)[etasbasi.github.io/Blog]
+This is my personal blog hosted at https://etasbasi.github.io/Blog/
