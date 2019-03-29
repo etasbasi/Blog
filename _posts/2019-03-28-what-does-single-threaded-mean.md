@@ -3,8 +3,6 @@ title: What does javascript being single threaded language mean?
 layout: post
 ---
 
-# What does JavaScript being a single threaded language mean?
-
 Contrary to most of the other popular programming languages, JavaScript is single-threaded. What this means is that the language only allows the computer to work on one operation at a time.
 When JavaScript was first developed, its purpose was to allow web-sites to submit forms and do other basic functions and a single-thread language was enough to achive that functionality.
 
