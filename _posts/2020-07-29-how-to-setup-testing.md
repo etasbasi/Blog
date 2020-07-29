@@ -18,5 +18,5 @@ And for testing the component:
 
 Hope this helps!
 
-[sample-1]: {{site.url}}/Blog/images/post-assets/2020-07-29-1.png "Code Sample"
-[sample-2]: {{site.url}}/Blog/images/post-assets/2020-07-29-2.png "Code Sample"
+[sample-1]: {{site.url}}/images/post-assets/2020-07-29-1.png "Code Sample"
+[sample-2]: {{site.url}}/images/post-assets/2020-07-29-2.png "Code Sample"
